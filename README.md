@@ -37,7 +37,7 @@ Execute analytical queries to derive insights on customer behavior, product perf
 ## *Project Phases*
 **Data Warehouse Modeling:**<br> &nbsp;&nbsp;&nbsp;&nbsp;- Creating a schema to support business queries effectively.
 **ETL Pipeline Development:**<br> &nbsp;&nbsp;&nbsp;&nbsp;- Reading, transforming, and loading data into the warehouse using Jupyter Notebook.
-**Analytical Queries:**<br> &nbsp;&nbsp;&nbsp;&nbsp;- Running SQL queries to address business questions such as customer purchasing trends and delivery &nbsp;&nbsp;&nbsp;&nbsp;performance.
+**Analytical Queries:**<br> &nbsp;&nbsp;&nbsp;&nbsp;- Running SQL queries to address business questions such as customer purchasing trends and delivery performance.
 ## *Tools and Technologies*
 **Data Processing:** &nbsp;&nbsp;&nbsp;&nbsp; Jupyter Notebook, pandas.<br>
 **Data Storage:** &nbsp;&nbsp;&nbsp;&nbsp; Data Warehouse Schema.<br>
